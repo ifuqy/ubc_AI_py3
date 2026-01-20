@@ -1,0 +1,13 @@
+./data/candidate_43_beam_12_segment_0_115.76ms_Cand.pfd 0.9876080030523046
+./data/candidate_184_beam_07_segment_0_283.46ms_Cand.pfd 0.00506129091912206
+./data/candidate_9_beam_13_segment_0_270.92ms_Cand.pfd 0.9994044229086327
+./data/candidate_9_beam_13_segment_0_526.80ms_Cand.pfd 0.011690682652039909
+./data/candidate_1_beam_05_segment_0_253.43ms_Cand.pfd 0.9984869226191352
+./data/candidate_43_beam_11_segment_0_405.59ms_Cand.pfd 0.9983873838236089
+./data/candidate_43_beam_09_segment_0_610.75ms_Cand.pfd 0.9323225028759801
+./data/candidate_200_beam_04_segment_0_25.15ms_Cand.pfd 0.5699871170551098
+./data/candidate_186_beam_02_segment_0_1502.59ms_Cand.pfd 0.004935899082613122
+./data/candidate_9_beam_13_segment_0_350.35ms_Cand.pfd 0.995541445413636
+./data/candidate_9_beam_08_segment_0_1001.16ms_Cand.pfd 0.06912841533882673
+./data/candidate_185_beam_09_segment_0_11.89ms_Cand.pfd 0.06620485303478396
+./data/candidate_9_beam_13_segment_0_972.36ms_Cand.pfd 0.5097143109375372
