@@ -58,7 +58,7 @@ class ar2data(object):
         mx = self.profile.argmax()
         if centre:
             nbin = self.profile.size
-            noff = nbin/2 - mx
+            noff = nbin//2 - mx
             self.data = np.roll(self.data, noff, axis=-1)
         if align:
             self.align = mx
